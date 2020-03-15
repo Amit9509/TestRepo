@@ -1,2 +1,2 @@
-a=23.5
+a=23
 print(type(a))
